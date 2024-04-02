@@ -256,7 +256,7 @@ public class Quiz extends JFrame implements ActionListener
             opt2.setEnabled(true);
             opt3.setEnabled(true);
             opt4.setEnabled(true);
-               if(count==8)
+               if(count==9)
                {
                    next.setEnabled(false);
                    submit.setEnabled(true);
